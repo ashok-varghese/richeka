@@ -1,0 +1,10 @@
+{
+  "description": "Create a stunning, fully responsive wedding website that offers guests an elegant experience while providing admins with seamless management tools.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
